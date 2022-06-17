@@ -1,7 +1,7 @@
 Hi 👋 My name is Oluwatobi Akioye
 =================================
 
-Frontend Developer
+Software Developer
 ------------------
 
 I started coding about 4 years ago and I have started with HTML and CSS. Then I gradually moved into JavaScript where I started to use React & NodeJS. Furthermore I started to learn Python.
