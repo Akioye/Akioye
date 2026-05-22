@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-I'm a Cloud & DevOps Engineer based in Lagos, Nigeria, building production-grade infrastructure on AWS. I don't just deploy apps — I build the entire pipeline from empty cloud account to self-healing, auto-scaling systems that run themselves.
+I'm a Cloud & DevOps Engineer, building production-grade infrastructure on AWS. I don't just deploy apps — I build the entire pipeline from empty cloud account to self-healing, auto-scaling systems that run themselves.
 
 I hold **AWS Cloud Practitioner** and **AWS Solutions Architect** certifications, and I've spent the last several months going beyond theory — building real projects with the tools companies actually use in production.
 
