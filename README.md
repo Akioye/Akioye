@@ -145,7 +145,7 @@ If you're building something that needs infrastructure that scales, I'd love to 
 
 <div align="center">
 
-*Lagos, Nigeria 🇳🇬 → Working with the world 🌍*
+* Working with the world 🌍*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=tobyjones&color=FF9900&style=flat-square&label=Profile+Views)
 
