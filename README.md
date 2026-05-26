@@ -65,7 +65,7 @@ Currently focused on landing a **remote DevOps/Cloud Engineering role** and buil
 
 ---
 
-### 🛒 Self-Healing E-Commerce Platform
+[https://github.com/Akioye/ecommerce-platform]### 🛒 Self-Healing E-Commerce Platform
 **The platform that fixes itself before you even notice it's broken.**
 
 A microservices e-commerce app (cart, payment, inventory) deployed on EKS with full chaos engineering — pods are intentionally killed and Kubernetes self-healing is demonstrated live on a Grafana dashboard.
