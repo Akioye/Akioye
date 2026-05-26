@@ -15,9 +15,9 @@
 
 ## 🧠 About Me
 
-I'm a Cloud & DevOps Engineer, building production-grade infrastructure on AWS. I don't just deploy apps — I build the entire pipeline from empty cloud account to self-healing, auto-scaling systems that run themselves.
+I'm a Cloud & DevOps Engineer, building production-grade infrastructure on AWS. I don't just deploy apps, I build the entire pipeline from empty cloud account to self-healing, auto-scaling systems that run themselves.
 
-I hold **AWS Cloud Practitioner** and **AWS Solutions Architect** certifications, and I've spent the last several months going beyond theory — building real projects with the tools companies actually use in production.
+I hold **AWS Cloud Practitioner** and **AWS Solutions Architect** certifications, and I've spent the last several months going beyond theory building real projects with the tools companies actually use in production.
 
 Currently focused on landing a **remote DevOps/Cloud Engineering role** and building projects that demonstrate the full DevOps lifecycle end to end.
 
@@ -61,7 +61,7 @@ Currently focused on landing a **remote DevOps/Cloud Engineering role** and buil
 
 ## 🚀 Featured Projects
 
-> *Full project list below — these are the ones that show how I think.*
+> *Full project list below  these are the ones that show how I think.*
 
 ---
 
@@ -69,7 +69,7 @@ Currently focused on landing a **remote DevOps/Cloud Engineering role** and buil
 
 **The platform that fixes itself before you even notice it's broken.**
 
-A microservices e-commerce app (cart, payment, inventory) deployed on EKS with full chaos engineering — pods are intentionally killed and Kubernetes self-healing is demonstrated live on a Grafana dashboard.
+A microservices e-commerce app (cart, payment, inventory) deployed on EKS with full chaos engineering , pods are intentionally killed and Kubernetes self-healing is demonstrated live on a Grafana dashboard.
 
 `AWS` `EKS` `Docker` `Helm` `Terraform` `GitHub Actions` `Ansible` `Prometheus` `Grafana`
 
