@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hey, I'm Toby Jones 👋
-### (Oluwatobi Akioye)
+# Hey, I'm Oluwatobi Akioye 👋
+### (Toby Jones)
 
 **Cloud & DevOps Engineer** | AWS Certified | Building infrastructure that scales, heals itself, and never sleeps.
 
