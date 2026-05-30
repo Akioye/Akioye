@@ -85,7 +85,7 @@ A fully automated GitOps pipeline where pushing to GitHub triggers Terraform inf
 ---
 
 
-<h3><a href="[https://github.com/Akioye/infra-gitops](https://github.com/Akioye/terraform-module-library)">🏗️ Production-Grade Terraform Module Library</a></h3>
+<h3><a href="https://github.com/Akioye/terraform-module-library">🏗️ Production-Grade Terraform Module Library</a></h3>
 
 **Reusable infrastructure building blocks for dev, staging, and production.**
 
