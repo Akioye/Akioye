@@ -75,7 +75,7 @@ A microservices e-commerce app (cart, payment, inventory) deployed on EKS with f
 
 ---
 
-### 🤖 GitOps Zero-Touch Deployment Pipeline
+<h3><a href="https://github.com/Akioye/infra-gitops">🤖 GitOps Zero-Touch Deployment Pipeline</a></h3>
 **Push code. Everything else happens automatically.**
 
 A fully automated GitOps pipeline where pushing to GitHub triggers Terraform infrastructure changes and ArgoCD syncs Kubernetes manifests automatically. Zero manual intervention from code to production. Slack notifications on every deployment.
