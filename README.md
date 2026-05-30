@@ -84,7 +84,9 @@ A fully automated GitOps pipeline where pushing to GitHub triggers Terraform inf
 
 ---
 
-### 🏗️ Production-Grade Terraform Module Library
+
+<h3><a href="[https://github.com/Akioye/infra-gitops](https://github.com/Akioye/terraform-module-library)">🏗️ Production-Grade Terraform Module Library</a></h3>
+
 **Reusable infrastructure building blocks for dev, staging, and production.**
 
 A library of production-grade Terraform modules (VPC, EKS, RDS, S3, IAM) used across three isolated environments. Remote state in S3 with DynamoDB locking. GitHub Actions posts `terraform plan` results as PR comments automatically.
